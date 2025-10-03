@@ -1,17 +1,51 @@
-Ark ESP
+# 🦖 Ark ESP - Ultimate Actor Tracker
 
-Ultimate ESP for Ark: Survival Evolved
+![Ark ESP](https://img.shields.io/badge/Status-Active-brightgreen) ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
 
-This ESP allows players to locate literally every actor in the game — including dinos, players, and items — with precision and ease.
+**An advanced ESP for Ark: Survival Evolved that tracks everything!**  
 
-Toggle: Press INSERT to open/close the ESP menu.
+---
 
-Features: Fully customizable overlays, dynamic actor tracking, and real-time visualization.
+## 🌟 Features
 
-This project was developed using reverse engineering techniques with ReClass.NET
- and IDA Pro
-, providing a deep understanding of Ark’s internal structures.
+- Track **all actors** in the game:  
+  - 🐉 Dinosaurs  
+  - 👤 Players  
+  - 🎒 Items  
+- Real-time visualization and overlays.  
+- Fully customizable ESP menu.  
+- Easy toggle: **Press `INSERT`** to open/close the ESP.  
 
-⚠️ Note: Ark updates may change offsets. If you notice that the ESP no longer tracks actors correctly, please kindly PM me — your help ensures this project stays up-to-date.
+---
 
-Disclaimer: Use responsibly. This project is intended for educational purposes and personal testing only.
+## 🔧 How It Works
+
+- Developed using **reverse engineering** techniques.  
+- Tools used:  
+  - [ReClass.NET](https://www.reclass.net/)  
+  - [IDA Pro](https://www.hex-rays.com/products/ida/)  
+- Deep understanding of Ark's internal structures for precise actor tracking.  
+
+---
+
+## ⚠️ Note
+
+Ark updates may change memory offsets.  
+If the ESP stops working correctly, **please kindly PM me**. Your feedback helps keep this project up-to-date.  
+
+---
+
+## 📜 Disclaimer
+
+This project is intended for **educational purposes only**. Use responsibly.  
+
+---
+
+## 🚀 Screenshot / Demo
+
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/ce78633e-85ff-4515-9cd4-cfa86f06a6af" />
+
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/5998107b-d8ad-485a-b89a-568b19e1c1ea" />
+
