@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Useful_documents\C++\ArkCheat\ArkCheat\Memory.h(28,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Useful_documents\C++\ArkCheat\ArkCheat\Memory.h(51,73): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  ArkCheat.vcxproj -> D:\Useful_documents\C++\ArkCheat\ArkCheat\x64\Debug\ArkCheat.exe

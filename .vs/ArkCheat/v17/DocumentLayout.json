@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|solutionrelative:ArkCheat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Ark.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|solutionrelative:ArkCheat\\Ark.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|solutionrelative:ArkCheat\\Offsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9272A1D7-2010-4631-9735-40B6B28691E1}|ArkCheat\\ArkCheat.vcxproj|solutionrelative:ArkCheat\\Memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ark.h",
+              "DocumentMoniker": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Ark.h",
+              "RelativeDocumentMoniker": "ArkCheat\\Ark.h",
+              "ToolTip": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Ark.h",
+              "RelativeToolTip": "ArkCheat\\Ark.h",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAGQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T17:09:32.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Memory.h",
+              "DocumentMoniker": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Memory.h",
+              "RelativeDocumentMoniker": "ArkCheat\\Memory.h",
+              "ToolTip": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Memory.h",
+              "RelativeToolTip": "ArkCheat\\Memory.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T09:30:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Offsets.h",
+              "DocumentMoniker": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Offsets.h",
+              "RelativeDocumentMoniker": "ArkCheat\\Offsets.h",
+              "ToolTip": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\Offsets.h",
+              "RelativeToolTip": "ArkCheat\\Offsets.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T13:32:47.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\main.cpp",
+              "RelativeDocumentMoniker": "ArkCheat\\main.cpp",
+              "ToolTip": "D:\\Useful_documents\\C\u002B\u002B\\ArkCheat\\ArkCheat\\main.cpp",
+              "RelativeToolTip": "ArkCheat\\main.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwIoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T20:29:22.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1554,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
