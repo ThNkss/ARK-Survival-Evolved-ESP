@@ -4,30 +4,28 @@
 namespace offsets
 {
     // ====== World & Names ======
-    constexpr uintptr_t gworld = 0x49DC2A8; // UWorld*
+    constexpr uintptr_t gworld = 0x4BC2D28; // UWorld*
     constexpr uintptr_t persistentLevel = 0xF8;      // UWorld::PersistentLevel
-    constexpr uintptr_t uWorldOwningGameInstance = 0x290;      // UWorld::PersistentLevel
-    constexpr uintptr_t gameInstanceLocalPlayers = 0x38;      // UWorld::PersistentLevel
-    constexpr uintptr_t localPlayerPlayerController = 0x30;      // UWorld::PersistentLevel
-    constexpr uintptr_t playerControllerPawn = 0x488;      // UWorld::PersistentLevel
-    constexpr uintptr_t aActorRootComponent = 0xF8;      // UWorld::PersistentLevel
-    constexpr uintptr_t levels = 0x268;     // UWorld::Levels[] (TArray<ULevel*>)
-    constexpr uintptr_t levelsCount = 0x270;     // TArray Count for Levels[]
+    constexpr uintptr_t uWorldOwningGameInstance = 0x298;      // UWorld::OwningGameInstance
+    constexpr uintptr_t gameInstanceLocalPlayers = 0x38;      // OwningGameInstance::LocalPlayers
+    constexpr uintptr_t localPlayerPlayerController = 0x30;      // UPlayer::PlayerController
+    constexpr uintptr_t playerControllerPawn = 0x498;      // PlayerController::Pawn
+    constexpr uintptr_t levels = 0x270;     // UWorld::Levels[] (TArray<ULevel*>)
+    constexpr uintptr_t levelsCount = 0x278;     // TArray Count for Levels[]
     constexpr uintptr_t actors = 0x88;      // ULevel::AActors[] (TArray<AActor*>)
     constexpr uintptr_t actorsCount = 0x90;      // TArray Count for AActors[]
     constexpr uintptr_t actorName = 0x18;      // TArray Count for AActors
     constexpr uintptr_t actorClass = 0x10;         // TArray Count for AActors[]
-    constexpr uintptr_t statusComponent = 0xCD0;
+    constexpr uintptr_t statusComponent = 0xCF0;  //Actor::statusComponent
     constexpr uintptr_t level = 0x6CC;
     constexpr uintptr_t isFemale = 0x0;
-    constexpr uintptr_t cameraManager = 0x4F0;    
-    constexpr uintptr_t viewMatrix = 0x4F0;
-    constexpr uintptr_t gname = 0x49B0378; // GNames*
+    constexpr uintptr_t cameraManager = 0x500;    
+    constexpr uintptr_t gname = 0x4B965E8; // GNames* FNameEntry 
     constexpr uintptr_t gnameChunk = 0x404;     // size of chunk in GNames
     constexpr uintptr_t fName = 0x10;     // FName address offset
     
     // ====== GUObjectArray ======
-    constexpr uintptr_t guobject = 0x49BFAA0; // GUObjectArray*
+    constexpr uintptr_t guobject = 0x4BA6568; // GUObjectArray*
     constexpr uintptr_t guobjectChunk = 0x10;      // GUObjectArray chunk offset
     constexpr uintptr_t guobjectChunkCount = 0x2C;      // chunk count
 
@@ -47,7 +45,7 @@ namespace offsets
 
 
     // Offset to CameraCache within APlayerCameraManager
-    constexpr uintptr_t cameraCache = 0x4D0;
+    constexpr uintptr_t cameraCache = 0x4E0;
 
     // Offset to POV within CameraCache (after TimeStamp)
     constexpr uintptr_t pov = 0x8;

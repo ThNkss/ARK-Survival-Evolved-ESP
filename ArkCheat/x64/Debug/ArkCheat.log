@@ -1,14 +1,14 @@
 ﻿  main.cpp
-D:\Useful_documents\C++\ArkCheat\ArkCheat\Memory.h(26,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Useful_documents\C++\ARK-Survival-Evolved-ESP\ArkCheat\Memory.h(26,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
   (compiling source file 'main.cpp')
   
-D:\Useful_documents\C++\ArkCheat\ArkCheat\Memory.h(49,73): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+D:\Useful_documents\C++\ARK-Survival-Evolved-ESP\ArkCheat\Memory.h(49,73): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
   (compiling source file 'main.cpp')
   
-D:\Useful_documents\C++\ArkCheat\ArkCheat\Ark.h(395,51): warning C4244: 'argument': conversion from '__int64' to 'uint32_t', possible loss of data
+D:\Useful_documents\C++\ARK-Survival-Evolved-ESP\ArkCheat\Ark.h(395,61): warning C4244: 'argument': conversion from '__int64' to 'uint32_t', possible loss of data
   (compiling source file 'main.cpp')
   
-D:\Useful_documents\C++\ArkCheat\ArkCheat\Ark.h(402,62): warning C4244: 'argument': conversion from '__int64' to 'uint32_t', possible loss of data
+D:\Useful_documents\C++\ARK-Survival-Evolved-ESP\ArkCheat\Ark.h(402,72): warning C4244: 'argument': conversion from '__int64' to 'uint32_t', possible loss of data
   (compiling source file 'main.cpp')
   
-  ArkCheat.vcxproj -> D:\Useful_documents\C++\ArkCheat\x64\Debug\ArkCheat.exe
+  ArkCheat.vcxproj -> D:\Useful_documents\C++\ARK-Survival-Evolved-ESP\x64\Debug\ArkCheat.exe
